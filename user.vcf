@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Carmel;Healy;;;
+FN: Healy  Carmel 
+ORG:Brown-Forman UK;
+TITLE:On-Trade Sales Executive, North West
+EMAIL;type=INTERNET;type=WORK;type=pref:carmel_healy@b-f.com
+TEL;type=WORK;type=VOICE:07870516848
+item1.ADR;type=WORK;type=pref:;;Manchester
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:brown-forman.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
